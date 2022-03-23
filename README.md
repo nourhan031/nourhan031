@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nourhan031
 - 👀 I’m interested in coding and problem solving
 - 🌱 I’m currently learning computer science.
-- 📫 How to reach me: nourhanabdalla031@gmail.com...
+- 📫 How to reach me: nourhanabdallah031@gmail.com...
 - 😄 Fun fact: I love reading(📖).
 
 <!---
