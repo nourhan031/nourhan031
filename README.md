@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @nourhan031
-- 🌱 I’m currently learning coding and problem solving.
+Student at Faculty of Computers and Artificial Intelligence 
 - 📫 How to reach me: nourhanabdallah031@gmail.com...
 
 <!---
