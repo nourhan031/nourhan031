@@ -1,4 +1,4 @@
-Student at Faculty of Computers and Artificial Intelligence 
+
 - 📫 How to reach me: nourhanabdallah031@gmail.com...
 
 <!---
